@@ -1,3 +1,4 @@
+# this is first project
 import random
 choices = ["rock", "paper","scissor"]
 player = input("choose rock , paper or scissor :").lower()
